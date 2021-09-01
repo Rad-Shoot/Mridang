@@ -1,0 +1,39 @@
+Competition 1 -
+Name - Debate Competition under 16
+Date - 29th august,2021 1:00 P.M.
+Venue - Auditorium 1
+ 
+Competition 2 -
+Name - Debate Competition under 19
+Date - 29th august,2021 1:00 P.M.
+Venue - Auditorium 2
+
+Competition 3 -
+Name - Dance competition under 16
+Date - 29th august,2021 10:00 A.M.
+Venue - Auditorium 1
+
+Competition 4 -
+Name - Dance competition under 19
+Date - 29th august,2021 10:00 A.M.
+Venue - Auditorium 2
+
+Competition 5 -
+Name - Poem Recitation under 16
+Date - 30th august,2021 10:00 A.M.
+Venue - Auditorium 1
+
+Competition 6 -
+Name - Poem Recitation under 19
+Date - 30th august,2021 10:00 A.M.
+Venue - Auditorium 2
+
+Competition 7 -
+Name - Hand writing under 16
+Date - 30th august,2021 10:00 A.M.
+Venue - Classroom 10 B
+
+Competition 8 -
+Name - Hand writing under 19
+Date - 30th august,2021 10:00 A.M.
+Venue - Classroom 9 B

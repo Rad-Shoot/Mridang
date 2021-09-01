@@ -1,0 +1,51 @@
+Event 1 -
+Category - Cultural
+Group Dance Class 10
+
+Event 2 - 
+Category - Cultural
+Group Dance Class 6
+
+Event 3 - 
+Category - Cultural 
+Solo Dance Class 5
+
+Event 4 -
+Category - Sports
+100 meter race under 16
+
+Event 5 -
+Category - Sports
+100 meter race under 19
+
+Event 6 -
+Category - Sports
+200 meter race under 16
+
+Event 7 -
+Category - Sports
+200 meter race under 19
+
+Event 8 - 
+Category - Sports
+High Jump under 16
+
+Event 9 -
+Category - Sports
+High Jump under 19
+
+Event 10 - 
+Category - Cultural
+Solo singing under 16
+
+Event 11 - 
+Category - Cultural
+Solo singing under 19
+
+Event 11 - 
+Category - Cultural
+Play - Merchant of Venice
+
+Event 12 -
+Category - Cultural
+Play - Mock Parliament
